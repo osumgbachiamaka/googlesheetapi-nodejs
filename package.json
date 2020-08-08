@@ -1,0 +1,19 @@
+{
+  "name": "blog-sheet-node",
+  "version": "1.0.0",
+  "description": "A nodejs application running on express server to read and write to google sheet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chiamaka Osumgba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "http": "0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
